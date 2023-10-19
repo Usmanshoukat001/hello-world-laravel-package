@@ -1,0 +1,15 @@
+{
+    "name": "usmanshoukat001/usmanshoukat001",
+    "autoload": {
+        "psr-4": {
+            "Usmanshoukat001\\Usmanshoukat001\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "usman shoukat",
+            "email": "121452897+Usmanshoukat001@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
