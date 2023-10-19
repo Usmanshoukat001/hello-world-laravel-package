@@ -2,7 +2,7 @@
     "name": "mirza/packageec",
     "autoload": {
         "psr-4": {
-            "Mirza\\PackageEc\\": "src/"
+            "UsmanMirzashoukat\\PackageEc\\": "src/"
         }
     },
     "authors": [
