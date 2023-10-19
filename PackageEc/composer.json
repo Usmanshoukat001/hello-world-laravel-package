@@ -1,0 +1,15 @@
+{
+    "name": "mirza/packageec",
+    "autoload": {
+        "psr-4": {
+            "Mirza\\PackageEc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "usman shoukat",
+            "email": "121452897+Usmanshoukat001@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
